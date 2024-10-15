@@ -1,6 +1,6 @@
 Package: nanotatoR
 Title: Next generation structural variant annotation and classification
-Version: 1.21.0
+Version: 1.21.1
 Author: Surajit Bhattacharya, Hayk Barsheghyan, Emmanuele C Delot and Eric Vilain
 Authors@R: 
     c(person(given = "Surajit",
@@ -41,3 +41,4 @@ Encoding: UTF-8
 RoxygenNote: 7.1.1.9001
 URL: https://github.com/VilainLab/nanotatoR
 BugReports: https://github.com/VilainLab/nanotatoR/issues
+PackageStatus: Deprecated
